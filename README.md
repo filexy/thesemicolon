@@ -1,7 +1,7 @@
 <H3>The Semicolon</H3>
 
-This repository contains the Ipython Notebooks to the Data Analytics youtube tutorials on The Semicolon. 
-The youtube link for the tutorials :https://www.youtube.com/c/thesemicolon
+This repository contains the Ipython Notebooks to the Data Analytics
+
 
 The following Ipython notebooks are available on this repository. 
 
